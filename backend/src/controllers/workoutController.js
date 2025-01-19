@@ -1,0 +1,1 @@
+const workoutModel = require('../models/Workout');

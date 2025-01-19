@@ -1,0 +1,1 @@
+const mealModel = require('../models/Meal');

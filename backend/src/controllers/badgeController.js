@@ -1,0 +1,1 @@
+const badgeModel = require('../models/Badge');
