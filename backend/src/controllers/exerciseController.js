@@ -1,0 +1,1 @@
+const exerciseModel = require('../models/Exercise');

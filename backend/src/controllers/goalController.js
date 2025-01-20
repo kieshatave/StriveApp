@@ -1,0 +1,1 @@
+const goalModel = require('../models/Goal');

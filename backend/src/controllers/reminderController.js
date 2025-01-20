@@ -1,0 +1,1 @@
+const reminderModel = require('../models/Reminder');

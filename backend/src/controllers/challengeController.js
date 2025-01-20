@@ -1,0 +1,1 @@
+const challengeModel = require('../models/Challenge');
